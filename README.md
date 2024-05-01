@@ -6,7 +6,7 @@ Professor das Unidadades Curriculares:
 * Robótica
 * Games e Apps
 
-Escolas Sesi - Itajaí/SC - Brasil
+Escolas Sesi - Itajaí/SC - Brasil 🇧🇷
 
 <!--
 **lxneves-official/lxneves-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
