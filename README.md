@@ -1,4 +1,12 @@
-### Hi there 👋
+# Leonardo Xavier Neves
+
+Professor das Unidadades Curriculares:
+
+* Ciências da Natureza
+* Robótica
+* Games e Apps
+
+Escolas Sesi - Itajaí/SC - Brasil
 
 <!--
 **lxneves-official/lxneves-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
