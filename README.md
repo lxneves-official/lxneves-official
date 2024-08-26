@@ -3,8 +3,9 @@
 Professor das Unidadades Curriculares:
 
 * Ciências da Natureza
-* Robótica
-* Games e Apps
+* Robótica I e II
+* Games e Apps I e II
+* Projetos Livres
 
 Escolas Sesi - Itajaí/SC - Brasil 🇧🇷
 
