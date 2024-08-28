@@ -6,6 +6,7 @@ Professor das Unidadades Curriculares:
 * Robótica I e II
 * Games e Apps I e II
 * Projetos Livres
+* Educação Continuada MAKER Tecnologia e Robótica
 
 Escolas Sesi - Itajaí/SC - Brasil 🇧🇷
 
