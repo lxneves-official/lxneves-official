@@ -8,7 +8,7 @@ Professor das Unidadades Curriculares:
 * Projetos Livres
 * Educação Continuada MAKER Tecnologia e Robótica
 
-Escolas Sesi - Itajaí/SC - Brasil 🇧🇷
+Escolas Sesi de Referência - Itajaí/SC - Brasil 🇧🇷
 
 <!--
 **lxneves-official/lxneves-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
